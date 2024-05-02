@@ -16,8 +16,8 @@
   }
   
   body {
-    background-color: #f9d60e;
-    padding: 20px;
+    background-color: #AED6F1 ;
+    padding: 40px;
     font-family: Arial;
   }
   
@@ -39,8 +39,8 @@
   
   .content {
     background-color: #272b30;
-    margin: 20px;
-    padding: 10px;
+    margin: 40px;
+    padding: 60px;
     color: white;
   }
 
@@ -69,4 +69,5 @@
     border-radius: 10px;
   
   }
-  
+
+img{width: 60%}
